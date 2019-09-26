@@ -53,7 +53,7 @@ class TestClass {
     		System.out.println(fourDigits(n));
     	}
     	else if(myArr.length == 5){
-    		System.out.println(fiveDigits(n));
+//    		System.out.println(fiveDigits(n));
     	}
     }
     
@@ -220,15 +220,15 @@ class TestClass {
     	return ones(myArr[0]) + " Thousand " + threeDigits(n%1000);
     }
     
-    public static String fiveDigits(int n){
-    	String temp = Integer.toString(n);
-    	int[] myArr = new int[temp.length()];
-    	for (int i = 0; i < temp.length(); i++)
-    	{
-    	    myArr[i] = temp.charAt(i) - '0';
-    	}
-    	  	  	
-    }
-    
+//    public static String fiveDigits(int n){
+//    	String temp = Integer.toString(n);
+//    	int[] myArr = new int[temp.length()];
+//    	for (int i = 0; i < temp.length(); i++)
+//    	{
+//    	    myArr[i] = temp.charAt(i) - '0';
+//    	}
+//
+//    }
+//
 }
 

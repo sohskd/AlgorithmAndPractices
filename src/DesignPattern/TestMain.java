@@ -1,6 +1,4 @@
-package Design;
-
-import Design.SingletonClass;
+package DesignPattern;
 
 public class TestMain {
 
