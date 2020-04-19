@@ -2,32 +2,23 @@ package LeetCode;
 
 public class Fibonacci {
 
+    int fib_cache[] = new int[31];
+
     public static void main(String[] args) {
 
-        int memo[] = new int[] {0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0};
+        Fibonacci f = new Fibonacci();
 
-
-        System.out.println(fib(6, memo));
+        System.out.println(f.fib(6));
     }
 
-    public static int fib(int n, int[] memo) {
+    public int fib(int N) {
 
-        if (memo[n] != 0) {
-            return memo[n];
-        }
-
-        if (n == 0) {
-            return 0;
-        }
-
-        if (n <= 2)
-            return 1;
-        else {
-            int i = fib(n-1, memo);
-            int j = fib(n-2, memo);
-            memo[n] = i + j;
-            return i + j;
-        }
+        if(N <= 1)
+            return N;
+        else if(fib_cache[N] != 0)
+            return fib_cache[N];
+        else
+            return fib_cache[N] = fib(N - 1) + fib(N - 2);
 
     }
 }

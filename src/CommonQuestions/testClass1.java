@@ -25,12 +25,12 @@ class TestClass {
         */
         
         //Scanner
-//        Scanner s = new Scanner(System.in);
-//        int N = s.nextInt();
-//
-//        for (int i = 0; i < N; i++) {
-//            System.out.println("hello world");
-//        }
+        Scanner s = new Scanner(System.in);
+        int N = s.nextInt();
+
+        for (int i = 0; i < N; i++) {
+            System.out.println("hello world");
+        }
     	
     	int n = 30100;
     	String temp = Integer.toString(n);

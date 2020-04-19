@@ -4,9 +4,13 @@ public class CoinChangePractice {
 
     public static void main(String[] args) {
 
-        int[] coins = {1, 2, 5};
-        int[] memo = new int[11];
-        int amount = 11;
+//        int[] coins = {1, 2, 5};
+//        int[] memo = new int[11];
+//        int amount = 11;
+
+        int[] coins = {2};
+        int amount = 3;
+        int[] memo = new int[3];
 
         int j = coinChange(coins, amount, memo);
 

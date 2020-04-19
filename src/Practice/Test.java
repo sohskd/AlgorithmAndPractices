@@ -5,21 +5,43 @@ import org.omg.PortableInterceptor.INACTIVE;
 import java.util.*;
 import java.util.stream.IntStream;
 
+import static org.junit.Assert.assertEquals;
+
 public class Test {
 
     public static void main(String[] args) {
 
-        int[] nums = {3 , 3, 4};
 
-        TreeMap<Integer, Integer> treeMap = new TreeMap<>(Collections.reverseOrder());
+        ArrayList<Integer> myArr = new ArrayList<>();
 
-        int j;
-        for (int i = 0; i < nums.length; i++) {
-            j = treeMap.getOrDefault(nums[i], 0);
-            treeMap.put(nums[i], ++j);
+        myArr.add(5);
+        myArr.add(1);
+        myArr.add(8);
+
+
+        System.out.println(myArr.toString());
+
+        Collections.sort(myArr);
+
+        System.out.println(myArr);
+
+        HashMap<Integer, Integer> myHashMap = new HashMap<>();
+
+        myHashMap.put(1, 6);
+        myHashMap.put(2, 5);
+        myHashMap.put(3, 2);
+
+        for (Integer i : myHashMap.keySet()) {
+            System.out.println(myHashMap.get(i));
+        }
+    }
+
+    private static int func(int[] myArr) {
+
+        for (int i = 0; i < myArr.length; i++) {
+            System.out.println(myArr[i]);
         }
 
-        Map.Entry<Integer, Integer> entry = treeMap.firstEntry();
-        System.out.println(entry.getKey());
+        return 0;
     }
 }
