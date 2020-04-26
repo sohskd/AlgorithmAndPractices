@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.coinchange;
 
 public class CoinChange {
 

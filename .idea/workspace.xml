@@ -2,183 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a89d1c5d-e154-42b7-9fbe-b5022363dc62" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/CollectionInterfaceMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/CollectionInterfaceMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/forEachAndList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/forEachAndList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/forEachAndMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/forEachAndMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/testHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/testHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/testMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/testMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/testPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/testPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Collections/testSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/testSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$AbstractProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$AbstractProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$CompositeBigProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$CompositeBigProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$DefaultProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$DefaultProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$HundredProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$HundredProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$Scale.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$Scale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$ScaleUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$ScaleUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$TensProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$TensProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$UnitProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords$UnitProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/NumberToWords2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CommonQuestions/checkPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CommonQuestions/checkPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CrackingCodingInterview/ArraysAndString/CheckUniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CrackingCodingInterview/ArraysAndString/CheckUniqueCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/PositiveIntegerUnderThousand.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/PositiveIntegerUnderThousand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/checkIfTreeIsBalanced$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/checkIfTreeIsBalanced$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/checkIfTreeIsBalanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/CrackingCodingInterview/Tree/checkIfTreeIsBalanced.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/DFS/DFSMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/DFS/DFSMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/DFS/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/DFS/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/HashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/ReverseLinkedList/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/ReverseLinkedList/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/ReverseLinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/ReverseLinkedList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/TestQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/TestQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/TestStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/TreeTraversal/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/TreeTraversal/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/TreeTraversal/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/TreeTraversal/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DataStructure/head.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DataStructure/head.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/numIslandsSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/numIslandsSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson19Regex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson19Regex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson32FileWriteRead$Customers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson32FileWriteRead$Customers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson32FileWriteRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DerekBanas/JavaLesson32FileWriteRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/DuckTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/DuckTestDrive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/MallardDuck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/Turkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/Turkey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/TurkeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/TurkeyAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/WildTurkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/AdapterPattern/WildTurkey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoCheezePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoCheezePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoStylePizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoStylePizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/ChicagoVeggiePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYCheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYStylePizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYStylePizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/NYVeggiePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/PizzaStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/SimplePizzaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/FactoryPattern/SimplePizzaFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/DinnerMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/DinnerMenuIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/Interator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/Interator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/MenuItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/IteratorPattern/MenuItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/CurrentConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/CurrentConditions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/DisplayElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/ForecastDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/ForecastDisplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/StatisticsDisplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/WeatherData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/ObserverPattern/WeatherStation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/SingletonClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/SingletonClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/TemplatePattern/CaffeineBeverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/TemplatePattern/CaffeineBeverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DesignPattern/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DesignPattern/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/GeeksForGeeks/DynamicProgramming/FactorialTopDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GeeksForGeeks/DynamicProgramming/FactorialTopDown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/GeeksForGeeks/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GeeksForGeeks/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/GeeksForGeeks/isBSTOrNot$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GeeksForGeeks/isBSTOrNot$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/GeeksForGeeks/isBSTOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GeeksForGeeks/isBSTOrNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/DijkstraAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph/DijkstraAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/TestDijkstraAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph/TestDijkstraAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Graph/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Graph/Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Hackerrank/getSmallestAndLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Hackerrank/getSmallestAndLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HeapSort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HeapSort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HeapSort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HeapSort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HeapSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HeapSort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HeapSort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HeapSort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Agoda9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Mastercard1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Mastercard2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/Qn1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/strangeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interview/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/BinaryTreePath$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/BinaryTreePath$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/BinaryTreePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/BinaryTreePath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/ClimbStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/ClimbStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/CoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/DiameterOfBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/DiameterOfBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/DiameterOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/DiameterOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/FindAllNumbersDisappearedInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/FindAllNumbersDisappearedInAnArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/HouseRobber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/HouseRobber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/JudgeCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/JudgeCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/KeysAndRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/KeysAndRooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/LetterCombinationsofAPhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/LetterCombinationsofAPhoneNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/LongestCommonSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/LongestCommonSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/MajorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/MaxSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/MergeTwoSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/MergeTwoSortedLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/NumberSubArrayHavingSumEqualK.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/NumberSubArrayHavingSumEqualK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/PathSum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/PathSum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/RelativeSortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/RelativeSortArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/RepeatedDNASubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/RepeatedDNASubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/ReturnMostFrequent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/ReturnMostFrequent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/ReverseVowelsOfAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/ReverseVowelsOfAString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/SubtractProdAndSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/SubtractProdAndSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/ValidPalindrome2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/ValidPalindrome2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/findKthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/findKthLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/maxNumberOfBalloons.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/maxNumberOfBalloons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/maxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/maxProfit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/numberOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/numberOfIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/MockCoding/Google.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/MockCoding/Google.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/FindSmallestCommonElementInAllRows.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/FindSmallestCommonElementInAllRows.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Ford.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Ford.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/MainOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/MainOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/MaximumNumberOfBalloons.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/MaximumNumberOfBalloons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/MinimumKnightMoves.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/MinimumKnightMoves.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Queens8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Queens8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/RegexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/RegexTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/ReverseParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/ReverseParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/SecondSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/SecondSmallest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/StaticBindingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/StaticBindingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/SubsetRecursiveCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/SubsetRecursiveCall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/TheTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/TheTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/Tile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/Tile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/TreeRecursiveCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/TreeRecursiveCall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/donkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/donkey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/readLineOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/readLineOfString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/recursiveDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/recursiveDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/recursiveMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/recursiveMaze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Practice/validPalindrome2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice/validPalindrome2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/BasicThreadSynchronization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/BasicThreadSynchronization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Hi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Hi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/InterThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/InterThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Processorr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Processorr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/ProducerConsumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/ProducerConsumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/ProducerConsumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/ProducerConsumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/ProducerConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/ProducerConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Q.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Q.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedBlocks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/SynchronizedKeyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/ThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threading/ThreadingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Threading/ThreadingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/WA/WAOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/WA/WAOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LeetCode/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/MoveZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChangePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,28 +43,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/numberOfIsland.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/BackToBackChangeMakingProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/MoveZeros.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="51">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CommonQuestions/testClass1.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="544">
+              <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/AddDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -264,6 +114,7 @@
       <find>node</find>
       <find>assertEq</find>
       <find>input</find>
+      <find>num</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/CommonQuestions</dir>
@@ -277,12 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Collections/CollectionInterfaceMethod.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure/TreeTraversal/Node.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/ReverseVowelsOfAString.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/RepeatedDNASubsequence.java" />
-        <option value="$PROJECT_DIR$/src/CrackingCodingInterview/TreesAndGraph/PositiveIntegerUnderThousand.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/FindAllNumbersDisappearedInAnArray.java" />
         <option value="$PROJECT_DIR$/src/GeeksForGeeks/isBSTOrNot.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/ValidPalindrome2.java" />
         <option value="$PROJECT_DIR$/src/GeeksForGeeks/LongestPalindromicSubstring.java" />
@@ -327,7 +172,13 @@
         <option value="$PROJECT_DIR$/src/Interview/Mastercard2.java" />
         <option value="$PROJECT_DIR$/src/InterviewMock/Agoda1.java" />
         <option value="$PROJECT_DIR$/src/InterviewMock/AQ1.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/CoinChangePractice3.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/coinchange/BackToBackChangeMakingProblem.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice3.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/AddDigits.java" />
       </list>
     </option>
   </component>
@@ -396,14 +247,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveZeros">
-    <configuration name="Mastercard1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewMock.Mastercard1" />
+  <component name="RunManager" selected="Application.AddDigits">
+    <configuration name="AddDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.AddDigits" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewMock.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,13 +262,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mastercard2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewMock.Mastercard2" />
+    <configuration name="BackToBackChangeMakingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.coinchange.BackToBackChangeMakingProblem" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewMock.*" />
+          <option name="PATTERN" value="LeetCode.coinchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinChangePractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.coinchange.CoinChangePractice3" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.coinchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeSortedArray" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,35 +310,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SecondSmallest" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonQuestions.TestClass" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CommonQuestions.*" />
+          <option name="PATTERN" value="LeetCode.coinchange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -490,19 +341,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SecondSmallest" />
-      <item itemvalue="Application.TestClass" />
-      <item itemvalue="Application.Mastercard1" />
-      <item itemvalue="Application.Mastercard2" />
       <item itemvalue="Application.MoveZeros" />
+      <item itemvalue="Application.CoinChangePractice3" />
+      <item itemvalue="Application.BackToBackChangeMakingProblem" />
+      <item itemvalue="Application.MergeSortedArray" />
+      <item itemvalue="Application.AddDigits" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddDigits" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.CoinChangePractice3" />
+        <item itemvalue="Application.BackToBackChangeMakingProblem" />
         <item itemvalue="Application.MoveZeros" />
-        <item itemvalue="Application.Mastercard2" />
-        <item itemvalue="Application.Mastercard1" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.SecondSmallest" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +382,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14228188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,15 +391,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31728044" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31586403" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31586403" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29036826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32527882" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3243626" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -558,7 +409,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3298611" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -574,13 +425,13 @@
           <properties />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChange.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChange.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChange.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChange.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="18" />
@@ -796,25 +647,25 @@
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="123" />
@@ -904,57 +755,26 @@
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/MoveZeros.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="143" />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/AddDigits.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="156" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgorithmAndPractices$BackToBackChangeMakingProblem.ic" NAME="BackToBackChangeMakingProblem Coverage Results" MODIFIED="1587802950654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LeetCode.coinchange.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeapSort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeapSort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="94" column="55" lean-forward="true" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hackerrank/getSmallestAndLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/JudgeCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="108" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/ClimbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda5.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda8.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda9.java" />
@@ -1035,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/CoinChangePractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/MajorityElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-70">
@@ -1053,13 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1207,6 +1013,20 @@
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Mastercard1.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Mastercard2.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/AQ1.java" />
+    <entry file="file://$PROJECT_DIR$/src/CommonQuestions/testClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/numberOfIsland.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -1214,17 +1034,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommonQuestions/testClass1.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/MoveZeros.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/BackToBackChangeMakingProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/AddDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

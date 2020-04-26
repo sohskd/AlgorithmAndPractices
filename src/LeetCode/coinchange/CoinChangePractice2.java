@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.coinchange;
 
 import java.util.Arrays;
 
