@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a89d1c5d-e154-42b7-9fbe-b5022363dc62" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/CoinChangePractice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LeetCode/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LeetCode/MoveZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChangePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/CoinChangePractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/coinchange/CoinChangePractice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/MoveZeros.java" afterDir="false" />
-    </list>
+    <list default="true" id="a89d1c5d-e154-42b7-9fbe-b5022363dc62" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="-13">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -72,13 +62,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="255">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/GenerateParenthesis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#245#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/AddDigits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -128,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GeeksForGeeks/isBSTOrNot.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/ValidPalindrome2.java" />
         <option value="$PROJECT_DIR$/src/GeeksForGeeks/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/CrackingCodingInterview/PositiveIntegerUnderThousand.java" />
@@ -179,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/AddDigits.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/GenerateParenthesis.java" />
       </list>
     </option>
   </component>
@@ -247,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddDigits">
+  <component name="RunManager" selected="Application.GenerateParenthesis">
     <configuration name="AddDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.AddDigits" />
       <module name="Algorithm" />
@@ -290,8 +293,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeSortedArray" />
+    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.GenerateParenthesis" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -304,13 +307,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.MoveZeros" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.MergeSortedArray" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.coinchange.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,19 +344,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MoveZeros" />
       <item itemvalue="Application.CoinChangePractice3" />
       <item itemvalue="Application.BackToBackChangeMakingProblem" />
       <item itemvalue="Application.MergeSortedArray" />
       <item itemvalue="Application.AddDigits" />
+      <item itemvalue="Application.GenerateParenthesis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateParenthesis" />
         <item itemvalue="Application.AddDigits" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.CoinChangePractice3" />
         <item itemvalue="Application.BackToBackChangeMakingProblem" />
-        <item itemvalue="Application.MoveZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -380,9 +383,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20604026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21879195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +394,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31586403" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29036826" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35410765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -766,6 +768,18 @@
           <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/GenerateParenthesis.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/GenerateParenthesis.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -775,7 +789,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda5.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda8.java" />
     <entry file="file://$PROJECT_DIR$/src/InterviewMock/Agoda9.java" />
     <entry file="file://$PROJECT_DIR$/src/Collections/testPriorityQueue.java">
@@ -1069,24 +1082,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/AddDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/MedianOfTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="-13">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/MergeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="255">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/AddDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/GenerateParenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="221">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
