@@ -11,36 +11,26 @@ public class Test {
 
     public static void main(String[] args) {
 
+        HashMap<Integer, List<String>> myMap = new HashMap<>();
 
-        ArrayList<Integer> myArr = new ArrayList<>();
+        List<String> l = new ArrayList<>();
+        List<String> m = new ArrayList<>();
 
-        myArr.add(5);
-        myArr.add(1);
-        myArr.add(8);
+        l.add("hello");
 
+        myMap.put(5, l);
+        myMap.put(8, m);
 
-        System.out.println(myArr.toString());
-
-        Collections.sort(myArr);
-
-        System.out.println(myArr);
-
-        HashMap<Integer, Integer> myHashMap = new HashMap<>();
-
-        myHashMap.put(1, 6);
-        myHashMap.put(2, 5);
-        myHashMap.put(3, 2);
-
-        for (Integer i : myHashMap.keySet()) {
-            System.out.println(myHashMap.get(i));
+        for (Integer i :  myMap.keySet()) {
+            System.out.println(myMap.get(i));
         }
     }
 
     private static int func(int[] myArr) {
 
-        for (int i = 0; i < myArr.length; i++) {
-            System.out.println(myArr[i]);
-        }
+        Arrays.sort(myArr);
+
+        System.out.println(Arrays.toString(myArr));
 
         return 0;
     }

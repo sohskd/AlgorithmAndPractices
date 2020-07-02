@@ -45,7 +45,7 @@ public class Mastercard2 {
 
             int anchor = length - i;
 
-            while (anchor)
+//            while (anchor)
 
 
             for (int j = 0; j < anchor + 1; j++) {

@@ -14,25 +14,30 @@ public class testSet {
 		set1.add("dog");
 		set1.add("cat");
 		set1.add("cow");
+		set1.add("cat");
 		
 		System.out.println(set1);
-		
-		if(set1.contains("cat")){
-			System.out.println("yes");
+
+		for (String element : set1) {
+			System.out.println(element);
 		}
 		
-		Set<String> intersection = new HashSet<String>(set1);
-		
-		Set<String> set2 = new TreeSet<String>();
-		
-		set2.add("dog");
-		set2.add("bird");
-		set2.add("swan");
-		
-		//intersect
-		intersection.retainAll(set2);
-		
-		System.out.println(intersection);
+//		if(set1.contains("cat")){
+//			System.out.println("yes");
+//		}
+//
+//		Set<String> intersection = new HashSet<String>(set1);
+//
+//		Set<String> set2 = new TreeSet<String>();
+//
+//		set2.add("dog");
+//		set2.add("bird");
+//		set2.add("swan");
+//
+//		//intersect
+//		intersection.retainAll(set2);
+//
+//		System.out.println(intersection);
 		
 		
 		
