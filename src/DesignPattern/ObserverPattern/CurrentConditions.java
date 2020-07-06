@@ -18,6 +18,15 @@ public class CurrentConditions implements Observer, DisplayElement {
         display();
     }
 
+    @Override
+    public String toString() {
+        return "CurrentConditions{" +
+                "temperature=" + temperature +
+                ", humidity=" + humidity +
+                ", weatherData=" + weatherData +
+                '}';
+    }
+
     public void display() {
         System.out.println("Current conditions: " + temperature + " F degrees and " + humidity + "% humidity");
     }

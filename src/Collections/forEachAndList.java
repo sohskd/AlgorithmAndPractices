@@ -1,7 +1,6 @@
 package Collections;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class forEachAndList {
 
@@ -36,6 +35,15 @@ public class forEachAndList {
 		items.stream()
 		.filter(s->s.contains("Bob2"))
 		.forEach(System.out::println);
+
+		List<Integer> integerList = new ArrayList<>();
+		integerList.add(9);
+		integerList.add(5);
+		integerList.add(8);
+
+		Collections.sort(integerList, (o1, o2) -> o2 - o1);
+
+		System.out.println(integerList.toString());
 	}
 
 }
