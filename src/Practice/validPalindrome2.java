@@ -2,29 +2,31 @@ package Practice;
 
 public class validPalindrome2 {
 
-    public static void main(String[] args) {
+    private String myProp;
 
-        // String s = "abca";
-        // String s = "tebbem";
-         String s = "abebta";
-
-//        validPalindrome(s);
-        String v = "ad";
-
-        System.out.println(s.length());
+    public String getMyProp() {
+        return myProp;
     }
 
-//    public static boolean validPalindrome(String s) {
-//        int l = -1, r = s.length();
-//        while (++l < --r)
-//            if (s.charAt(l) != s.charAt(r))
-//                return isPalindromic(s, l, r + 1) || isPalindromic(s, l - 1, r);
-//        return true;
-//    }
-//
-//    public static boolean isPalindromic(String s, int l, int r) {
-//        while (++l < --r)
-//            if (s.charAt(l) != s.charAt(r)) return false;
-//        return true;
-//    }
+    public void setMyProp(String myProp) {
+        this.myProp = myProp;
+    }
+
+    @Override
+    public String toString() {
+        return "validPalindrome2{" +
+                "myProp='" + myProp + '\'' +
+                '}';
+    }
+
+    public static void main(String[] args) {
+
+        MyClass myClass = new MyClass();
+
+        validPalindrome2 validPalindrome2 = new validPalindrome2();
+
+        validPalindrome2.setMyProp(myClass.getMyProperty());
+
+        System.out.println(validPalindrome2.toString());
+    }
 }

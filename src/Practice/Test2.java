@@ -1,34 +1,19 @@
 package Practice;
 
-import java.util.Arrays;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.util.*;
 
 public class Test2 {
 
     public static void main(String[] args) {
 
-        String str = "abc";
+        SimpleDateFormat format = new SimpleDateFormat(
+                "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", Locale.US);
+        format.setTimeZone(TimeZone.getTimeZone("UTC"));
 
-        int c = str.charAt(1) - 'a';
-
-        System.out.println(c);
-
-        int[] bob = new int[] {1};
-
-        bob[0]++;
-
-        bob[0]++;
-
-        System.out.println(Arrays.toString(bob));
-
-        String s = "helloworld";
-
-        StringBuilder sb = new StringBuilder();
-
-
-        for (int i =  s.length() - 1; i >= 0; i--) {
-            sb.append(s.charAt(i));
-        }
-
-        System.out.println(sb.toString());
+        Date d = new Date();
+        System.out.println(format.format(d));
+        System.out.println(LocalDateTime.now());
     }
 }
