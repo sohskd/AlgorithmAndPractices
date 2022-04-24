@@ -1,15 +1,14 @@
 package Practice;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class donkey {
 
     public static void main(String args[]) {
 
-        for (int i = 0, fuzz = 0; i < 5; i++, fuzz++) {
+        String s = "Aahello";
+        int z = s.charAt(0);
+        System.out.println(z);
+        System.out.println((int) s.charAt(0));
+        System.out.println((int) s.charAt(1));
 
-            System.out.println("Done");
-        }
     }
 }

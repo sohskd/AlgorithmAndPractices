@@ -25,7 +25,7 @@ public class validPalindrome2 {
 
         validPalindrome2 validPalindrome2 = new validPalindrome2();
 
-        validPalindrome2.setMyProp(myClass.getMyProperty());
+//        validPalindrome2.setMyProp(myClass.getMyProperty());
 
         System.out.println(validPalindrome2.toString());
     }
